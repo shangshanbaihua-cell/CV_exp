@@ -1,22 +1,22 @@
 # 实验一：计算机视觉库的安装
 
 ## 实验目的：
- 本实验旨在通过系统配置关键的开发环境与库，为深入探索计算机视觉领域做好必要准备。我们通过安装Anaconda来建立稳定的项目管理基础，以此作为安装核心组件的平台。继而，我们配置了PyTorch深度学习框架，旨在为后续实现复杂的图像识别模型提供核心支持；安装了OpenCV库以胜任基础的图像处理和视频分析任务；并引入了Scikit-learn工具包来补充传统机器学习算法能力。这套环境的成功搭建，标志着我们已经具备了开展从理论到实践的全流程计算机视觉学习与研究的先决条件。
+ 掌握Anaconda的安装与基本操作，熟悉GPU使用环境的配置及对应版本PyTorch的安装，并完成OpenCV的安装与配置
 
 ## 实验内容：
 ### 1.安装anaconda：
 <p style="text-indent: 2em;">（我之前已经下载过了，只展示结果）</p>
 <div align="center"> <img src="f:\大31\vs\1st\image.png" width="70%" alt="anaconda终端验证"/> </div>
 
-### 2.安装pytorch：
+### 2、conda的基本操作与OpenCv的安装
 <p style="text-indent: 2em;">（我之前已经下载过了，只展示结果）</p>
 <div align="center"> <img src="https://github.com/user-attachments/assets/cb419dad-8b03-4fb7-85be-0cba1fa6f820" width="60%" alt="pytorch安装结果"/> </div>
 
-### 3.安装OpenCV：
+### 3.GPU加速环境配置：
 <p style="text-indent: 2em;">（我之前已经下载过了，只展示结果）</p>
 <div align="center"> <img src="https://github.com/user-attachments/assets/b067f116-17a0-4664-ba9c-d65707e41766" width="60%" alt="OpenCV安装结果"/> </div>
 
-### 4.安装SKlearn：
+### 4.Pytorch安装：
 <p style="text-indent: 2em;">（我之前已经下载过了，只展示结果）</p>
 <div align="center"> <img src="https://github.com/user-attachments/assets/02ecd4c1-9562-4410-b58a-999e5e3fe359" width="60%" alt="SKlearn安装结果"/> </div>
 
