@@ -12,11 +12,14 @@
 
 ### 2 读取原始图像并进⾏⾊彩空间转换
 ###代码及结果
+
 <img width="732" height="728" alt="1" src="https://github.com/user-attachments/assets/04bc7b29-10d6-4b87-9e01-f11da56c24a9" />
 <img width="856" height="519" alt="image" src="https://github.com/user-attachments/assets/c311e57b-11fc-4578-af94-2c4782a286b0" />
 
 ###测试⼀下cv2中颜⾊空间变换
+
 ###代码及结果
+
 <div align="center"> <img width="821" height="227" alt="image" src="https://github.com/user-attachments/assets/92f515f0-a0cf-42f6-8bfa-e54239c8bb6b" />
 <div align="center"> <img width="1124" height="957" alt="image" src="https://github.com/user-attachments/assets/e46728de-0f03-4378-9740-ab2f9a57d774" />
 
@@ -39,16 +42,11 @@
 
 ## 实验小结：
 
-<p style="text-indent: 2em;">本实验完成了彩⾊图像的读取、BGR→RGB 转换以及灰度图显⽰，并在此基础
-上为图像添加了椒盐噪声与⾼斯噪声。
-通过分别采⽤均值滤波、中值滤波以及⼿动实现的中值滤波对噪声图像进⾏去
-噪处理，对⽐分析了不同滤波⽅法的效果。
+<p style="text-indent: 2em;">本实验完成了彩⾊图像的读取、BGR→RGB 转换以及灰度图显⽰，并在此基础上为图像添加了椒盐噪声与⾼斯噪声。
+通过分别采⽤均值滤波、中值滤波以及⼿动实现的中值滤波对噪声图像进⾏去噪处理，对⽐分析了不同滤波⽅法的效果。
 实验结果表明：
-中值滤波对椒盐噪声的去除效果最为显著，能够有效保留图像
-边缘和细节；
+中值滤波对椒盐噪声的去除效果最为显著，能够有效保留图像边缘和细节；
 均值滤波更适⽤于⾼斯噪声的平滑去除；
-⼿动实现的中值滤波在处理彩⾊图像时同样表现良好，既能有
-效抑制噪声，⼜能保持图像的真实⾊彩与结构信息。
 通过本次实验，进⼀步加深了对图像噪声类型与滤波原理的理解，掌握了⼿动
 实现彩⾊图像中值滤波的基本⽅法，为后续图像去噪与滤波算法的改进与优化
 奠定了基础。
