@@ -7,11 +7,18 @@
 ### 1.图像关键点检测及拼接
 原始图片：
 <img width="1005" height="1600" alt="a" src="https://github.com/user-attachments/assets/dc1f2c16-dc11-4cd3-9cbe-d4cc0e522617" />
-<img width="1005" height="1600" alt="a" src="https://github.com/user-attachments/assets/f27719a1-c5b3-42dd-b0f5-3a3a2f3c00b8" />
+<img width="1280" height="1414" alt="b" src="https://github.com/user-attachments/assets/f91d24f0-b20c-4713-9823-6e7e6dc6ce10" />
 
+代码展示：
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/be36e1b0-0130-4e68-b276-6d52a2183c96" />
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/fe7096b8-c088-4953-bcff-ff6484311450" />
+
+结果展示：
+<img width="2560" height="1516" alt="image" src="https://github.com/user-attachments/assets/0c741c64-8f38-4390-8180-75184d3677ca" />
+<img width="1884" height="1414" alt="stitched_result" src="https://github.com/user-attachments/assets/25b9aa10-3569-451e-b4fc-dee840e05146" />
 
 
 
 ## 实验小结：
 
-<p style="text-indent: 2em;">通过本次实验，我成功完成了计算机视觉开发环境的全面搭建工作。在实验过程中，我不仅安装了Anaconda科学计算平台作为基础环境，还顺利配置了PyTorch深度学习框架、OpenCV计算机视觉库以及GPU加速这三个核心工具。在验证环节，我通过终端命令和Python导入测试确认了所有库的安装状态和版本兼容性，确保环境可用性。此次实践让我熟练掌握了使用conda和pip进行包管理的技巧，加深了对虚拟环境重要性的理解，同时也培养了独立解决环境配置问题的能力。尽管过程中遇到了一些终端命令不熟悉的小挑战，但通过查阅资料都得到了有效解决。本次实验为我后续开展图像处理、模型训练等计算机视觉实战项目奠定了坚实的技术基础，让我对整个工具链有了更系统的认识，为深入学习人工智能技术做好了充分准备。</p>
+<p style="text-indent: 2em;">通过本次实验，我成功完成了计算机视觉中图像的关键点检测和拼接，了解了如何把图片拼接，同时也发现了不少尺寸显示问题，更加熟练的掌握了如何处理图像，也更理解了计算机视觉部分  </p>
