@@ -7,10 +7,10 @@
 ### LeNet-5 卷积神经网络的手写数字识别
 
 代码展示：
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/202a228c-4315-4c34-9ada-1174d0abcbcf" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/abb2fe96-5535-449b-8d03-f5327096aa2b" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/64fe2b63-08f1-4817-b482-ce61e9ad5401" />
-<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/90325d75-ca95-4e1b-8037-68994cddcbfc" />
+<img width="1373" height="1061" alt="image" src="https://github.com/user-attachments/assets/45bc4ce4-1948-4af3-b338-70a306d58833" />
+<img width="811" height="863" alt="image" src="https://github.com/user-attachments/assets/b540e9e8-5b5f-458e-a14e-2ccaeae0fa2d" />
+<img width="1153" height="1080" alt="image" src="https://github.com/user-attachments/assets/a15cc539-d901-451b-ae81-20bf16e529d5" />
+<img width="1019" height="747" alt="image" src="https://github.com/user-attachments/assets/f2c8912c-6f41-4261-9b21-7737adbfbd3b" />
 
 结果展示：
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/6bc502c9-b343-4d35-8667-17c21d41a72b" />
